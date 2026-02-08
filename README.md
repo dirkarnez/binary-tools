@@ -1,5 +1,8 @@
 [binary tools](https://dirkarnez.github.io/binary-tools/dist)
 =============================================================
+```js
+console.log((new Function("a", "b", "return a + b"))(1, 2));
+```
 ### TODOs
 - [ ] ascii
 - [ ] bit operation
