@@ -1,5 +1,5 @@
-binary tools
-============
+[binary tools](https://dirkarnez.github.io/binary-tools/dist)
+=============================================================
 ### TODOs
 - [ ] ascii
 - [ ] bit operation
